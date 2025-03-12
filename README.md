@@ -1,4 +1,4 @@
-# 🏥 My Software - Digital Solutions
+c# 🏥 My Software - Digital Solutions
 
 ### 🌐 Live Demo: [mysoftware-nhs.netlify.app](https://mysoftware-nhs.netlify.app/)
 
@@ -30,11 +30,10 @@
 
 ---
 
-🚀 Installation & Running Locally
-1️⃣ Clone the Repository
-sh
-Copy
-Edit
+## 🚀 Installation & Running Locally
+
+### 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/walidgrw/mysoftwarepromotion.git
 cd mysoftware-nhs
 2️⃣ Run Locally with Python
