@@ -45,8 +45,8 @@ python -m http.server 8000
 Open http://localhost:8000/ in your browser.
 
 📞 Contact Information
-Team Leader: John Doe
-📧 Email: teamleader@university.edu
+Team Leader: Jeremy Garside
+📧 Email: bi51oa@student.sunderland.ac.uk
 🌍 Website: mysoftware-nhs.netlify.app
 
 🏆 License
