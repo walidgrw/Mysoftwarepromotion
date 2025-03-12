@@ -42,6 +42,11 @@ Copy
 Edit
 python -m http.server 8000
 Then, open http://localhost:8000/ in your browser.
+yaml
+Copy
+Edit
+
+---
 
 📞 Contact Information
 Team Leader: Jeremy Garside
@@ -51,10 +56,6 @@ Team Leader: Jeremy Garside
 🏆 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
----
 
 
