@@ -17,7 +17,7 @@
   - **👨‍💼 Our Team:** Meet the team members.
   - **💡 Expertise:** Showcasing our expertise in software & digital health.
   - **🎗 National Day:** Awareness page for Mental Health.
-  - **📞 Contact Us:** Get in touch via email, phone & social media.
+  - **📞 Contact Us:** Get in touch via email & social media.
 
 ---
 
