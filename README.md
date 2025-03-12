@@ -30,20 +30,21 @@ c# 🏥 My Software - Digital Solutions
 
 ---
 
-## 🚀 Installation & Running Locally
+🚀 Installation & Running Locally
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
+
 To clone this repository, run:
-```sh
+
 git clone https://github.com/walidgrw/mysoftwarepromotion.git
 cd mysoftware-nhs
+
 2️⃣ Run Locally with Python
+
 To start a local server, run:
 
-sh
-Copy
-Edit
 python -m http.server 8000
+
 Then, open http://localhost:8000/ in your browser.
 
 ---
