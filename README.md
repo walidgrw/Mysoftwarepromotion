@@ -35,7 +35,7 @@
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/mysoftware-nhs.git
+git clone https://github.com/bi29vw/mysoftware-nhs.git
 cd mysoftware-nhs
 2️⃣ Run Locally with Python
 sh
