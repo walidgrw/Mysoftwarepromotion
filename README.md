@@ -4,6 +4,16 @@
 
 ---
 
+## 🏢 Corporate Identity
+Our company is committed to delivering cutting-edge digital solutions that prioritize accessibility, security, and user engagement.
+
+### 🔹 Logo
+Our brand logo represents innovation and accessibility.  
+![My Software Logo](assets/images/logo.png)
+
+### 🔹 Mission Statement
+*"Empowering businesses and individuals with accessible, secure, and innovative digital solutions."*
+
 ## 📌 Features
 
 ✅ **Modern & Responsive UI** - Fully optimized for mobile & desktop.  
