@@ -57,6 +57,3 @@ Team Leader: Jeremy Garside
 📧 Email: bi51oa@student.sunderland.ac.uk
 
 🌍 Website: [mysoftware-nhs.netlify.app](https://mysoftware-nhs.netlify.app/)
-
-🏆 License
-This project is open-source and available under the MIT License.
