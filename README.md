@@ -29,6 +29,15 @@ Our brand logo represents innovation and accessibility.
 
 ---
 
+## 🎯 How This Website Meets Task B1
+This website is designed to **advertise and promote My Software - Digital Solutions** by incorporating:
+- ✅ **Corporate Identity** (Logo, Mission Statement, Branding)
+- ✅ **Service Offerings** (Software Development, UI/UX Consulting, Digital Health Solutions)
+- ✅ **Interactive Elements** (Animations, Smooth Transitions, Contact Forms)
+- ✅ **Clear Navigation & User Engagement** (Easy access to About Us, Services, and Contact Info)
+- ✅ **Deployed & Accessible** via Netlify for easy client access.
+
+
 ## 🚀 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
