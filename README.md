@@ -30,19 +30,19 @@
 
 ---
 
-## 📥 Installation & Running Locally
-
-### **1️⃣ Clone the Repository**
-```sh
+🚀 Installation & Running Locally
+1️⃣ Clone the Repository
+sh
+Copy
+Edit
 git clone https://github.com/yourusername/mysoftware-nhs.git
 cd mysoftware-nhs
 2️⃣ Run Locally with Python
-
 sh
 Copy
 Edit
 python -m http.server 8000
-Open http://localhost:8000/ in your browser.
+Then, open http://localhost:8000/ in your browser.
 
 📞 Contact Information
 Team Leader: Jeremy Garside
