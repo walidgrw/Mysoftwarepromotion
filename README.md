@@ -1,6 +1,4 @@
-c# 🏥 My Software - Digital Solutions
-
-### 🌐 Live Demo: [mysoftware-nhs.netlify.app](https://mysoftware-nhs.netlify.app/)
+🚀 My Software - NHS Promotion Website### 
 
 **My Software - Digital Solutions** is a promotional website designed to showcase digital solutions for businesses and healthcare providers, emphasizing accessibility, security, and user engagement.
 
