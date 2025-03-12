@@ -33,10 +33,13 @@ c# 🏥 My Software - Digital Solutions
 ## 🚀 Installation & Running Locally
 
 ### 1️⃣ Clone the Repository
+To clone this repository, run:
 ```sh
 git clone https://github.com/walidgrw/mysoftwarepromotion.git
 cd mysoftware-nhs
 2️⃣ Run Locally with Python
+To start a local server, run:
+
 sh
 Copy
 Edit
@@ -45,7 +48,6 @@ Then, open http://localhost:8000/ in your browser.
 yaml
 Copy
 Edit
-sh```
 ---
 
 📞 Contact Information
@@ -55,7 +57,3 @@ Team Leader: Jeremy Garside
 
 🏆 License
 This project is open-source and available under the MIT License.
-
-
-
-
