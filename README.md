@@ -69,7 +69,7 @@ Then, open http://localhost:8000/ in your browser.
 
 📞 Contact Information
 
-Team Leader: Jeremy Garside
+👤 Team Leader: Jeremy Garside
 
 📧 Email: bi51oa@student.sunderland.ac.uk
 
