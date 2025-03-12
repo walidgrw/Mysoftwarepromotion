@@ -45,7 +45,7 @@ Then, open http://localhost:8000/ in your browser.
 yaml
 Copy
 Edit
-
+```sh
 ---
 
 📞 Contact Information
