@@ -37,6 +37,7 @@ c# 🏥 My Software - Digital Solutions
 To clone this repository, run:
 
 git clone https://github.com/walidgrw/mysoftwarepromotion.git
+
 cd mysoftware-nhs
 
 2️⃣ Run Locally with Python
