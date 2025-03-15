@@ -42,3 +42,27 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener("scroll", revealSection);
     revealSection(); // Run on load to show any sections already in view
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Select all team member containers
+    const teamMembers = document.querySelectorAll(".team-member");
+
+    teamMembers.forEach(member => {
+        const flipBtn = member.querySelector(".flip-btn"); // Flip button
+        const returnBtn = member.querySelector(".card-back .flip-btn"); // Return button
+
+        // Flip the card
+        flipBtn.addEventListener("click", function (event) {
+            event.stopPropagation();
+            member.classList.add("flipped");
+        });
+
+        // Flip back the card
+        returnBtn.addEventListener("click", function (event) {
+            event.stopPropagation();
+            member.classList.remove("flipped");
+        });
+    });
+});
+
+
