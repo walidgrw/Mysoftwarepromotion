@@ -78,6 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // Ensure clicking the hamburger icon toggles the menu
-    hamburger.addEventListener("click", toggleMenu);
+    if (hamburger) {
+        hamburger.addEventListener("click", toggleMenu);
+    }
 });
-
