@@ -1260,12 +1260,11 @@ footer {
  
 /*Navigation mobile friendly*/
 /* Mobile Navigation */
-/* Mobile Navigation */
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
-        text-align: center;
         padding: 10px;
+        text-align: center;
     }
 
     .nav-menu {
@@ -1290,7 +1289,17 @@ footer {
         padding: 10px 0;
     }
 
+    /* Hamburger Icon */
     .hamburger {
         display: block;
+        cursor: pointer;
+    }
+
+    .hamburger div {
+        width: 30px;
+        height: 3px;
+        background: white;
+        margin: 5px;
     }
 }
+

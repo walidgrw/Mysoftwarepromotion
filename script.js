@@ -69,3 +69,11 @@ function toggleMenu() {
     document.querySelector(".nav-menu").classList.toggle("active");
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+    const menuToggle = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+
+    menuToggle.addEventListener("click", function () {
+        navMenu.classList.toggle("active");
+    });
+});
