@@ -70,10 +70,14 @@ function toggleMenu() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    const menuToggle = document.querySelector(".hamburger");
+    const hamburger = document.querySelector(".hamburger");
     const navMenu = document.querySelector(".nav-menu");
 
-    menuToggle.addEventListener("click", function () {
+    function toggleMenu() {
         navMenu.classList.toggle("active");
-    });
+    }
+
+    // Ensure clicking the hamburger icon toggles the menu
+    hamburger.addEventListener("click", toggleMenu);
 });
+

@@ -1265,6 +1265,7 @@ footer {
         flex-direction: column;
         padding: 10px;
         text-align: center;
+        position: relative;
     }
 
     .nav-menu {
@@ -1293,6 +1294,7 @@ footer {
     .hamburger {
         display: block;
         cursor: pointer;
+        z-index: 1001;
     }
 
     .hamburger div {
@@ -1300,6 +1302,6 @@ footer {
         height: 3px;
         background: white;
         margin: 5px;
+        transition: 0.3s;
     }
 }
-
