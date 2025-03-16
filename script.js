@@ -77,7 +77,21 @@ document.addEventListener("DOMContentLoaded", function () {
         navMenu.classList.toggle("active");
     }
 
-    // Ensure clicking the hamburger icon toggles the menu
+    // Attach event listener to hamburger menu
+    if (hamburger) {
+        hamburger.addEventListener("click", toggleMenu);
+    }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const hamburger = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+
+    function toggleMenu() {
+        navMenu.classList.toggle("active");
+    }
+
+    // Attach event listener to hamburger menu
     if (hamburger) {
         hamburger.addEventListener("click", toggleMenu);
     }
