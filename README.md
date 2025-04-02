@@ -10,7 +10,7 @@ Our company is committed to delivering cutting-edge digital solutions that prior
 ### 🔹 Logo
 Our brand logo represents innovation and accessibility.  
 
-![My Software Logo](assets/images/logo.png)
+![My Software Logo](assets/images/initial.png)
 
 ### 🔹 Mission Statement
 *"Empowering businesses and individuals with accessible, secure, and innovative digital solutions."*
