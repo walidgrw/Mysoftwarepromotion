@@ -1305,3 +1305,52 @@ footer {
         transition: 0.3s;
     }
 }
+
+/* Hide quick-nav by default */
+.quick-nav {
+    display: none;
+}
+
+/* Show and style on mobile */
+@media (max-width: 767px) {
+    .quick-nav {
+        display: block;
+        background: linear-gradient(135deg, #41B6E6 0%, #005F5F 100%);
+        color: white;
+        padding: 30px 20px;
+        text-align: center;
+        border-top: 2px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .quick-nav h3 {
+        color: white;
+        font-size: 1.4rem;
+        margin-bottom: 15px;
+        font-weight: 600;
+    }
+
+    .quick-nav-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        align-items: center;
+    }
+
+    .quick-btn {
+        padding: 12px 20px;
+        background-color: #008080;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        width: 80%;
+        max-width: 300px;
+        font-weight: bold;
+        transition: background 0.3s ease, transform 0.3s ease;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .quick-btn:hover {
+        background-color: #004F4F;
+        transform: scale(1.03);
+    }
+}
